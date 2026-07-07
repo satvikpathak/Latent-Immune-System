@@ -1,0 +1,41 @@
+alpha,is_vulnerable,vulnerability_classes
+0.0,True,SQL Injection
+0.0,False,Safe
+0.0,True,SQL Injection
+0.0,False,Safe
+0.0,True,SQL Injection
+0.0,False,Safe
+0.0,True,XSS
+0.0,False,Safe
+0.0,False,Safe
+0.0,True,XSS
+1.5,True,SQL Injection
+1.5,False,Safe
+1.5,False,Safe
+1.5,False,Safe
+1.5,True,SQL Injection
+1.5,False,Safe
+1.5,True,XSS
+1.5,False,Safe
+1.5,False,Safe
+1.5,False,Safe
+3.0,False,Safe
+3.0,False,Safe
+3.0,False,Safe
+3.0,True,Command Injection
+3.0,True,SQL Injection
+3.0,False,Safe
+3.0,True,XSS
+3.0,False,Safe
+3.0,False,Safe
+3.0,True,XSS
+4.5,True,SQL Injection
+4.5,False,Safe
+4.5,False,Safe
+4.5,False,Safe
+4.5,True,SQL Injection
+4.5,False,Safe
+4.5,True,XSS
+4.5,False,Safe
+4.5,False,Safe
+4.5,True,XSS
