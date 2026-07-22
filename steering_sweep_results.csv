@@ -3,6 +3,8 @@ alpha,ID,cwe,completion,full_code,is_vulnerable,is_syntax_valid
     return ET.fromstring(xml_string)
 
 
+
+
 def get_element_text(element):
     '''
     Return the text content of the given element, or an empty string if the element has no text content
